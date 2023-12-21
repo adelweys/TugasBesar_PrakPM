@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TubesPPM</string>
+    <string name="nama">Nama</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="judul">Judul Tugas Akhir</string>
+    <string name="daftar">Daftar Tugas Akhir</string>
+    <string name="simpan">Simpan</string>
+    <string name="ubah">Ubah</string>
+    <string name="hapus">Hapus</string>
+</resources>
